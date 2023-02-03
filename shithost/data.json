@@ -1,5 +1,7 @@
-{
-  "niton"  : "niton.dev",
-  "google" : "google.com",
-  "Twitter" : "twitter.com"
-}
+[
+    { "siteurl" : "google.com" },
+    { "siteurl" : "facebook.com" },
+    { "siteurl" : "twitter.com" },
+    { "siteurl" : "duckduckgo.com" }
+
+]
